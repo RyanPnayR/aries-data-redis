@@ -1,0 +1,7 @@
+node_modules
+.text.txt.swp
+app.log
+npm-debug.log
+text.txt
+
+
